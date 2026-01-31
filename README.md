@@ -1,1 +1,1 @@
-A simple Tic Tac Toe Game
+JAVASCRIPT PROJECTS
